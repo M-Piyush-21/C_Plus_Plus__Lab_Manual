@@ -1,70 +1,81 @@
-Python Exercise Problem Statements
-(All problem statement questions are mentioned here).
+(All Problem Statement are mentioned here for above codes)
 
-1. Write a Python program to create a person class. Include attributes like name,
-country and date of birth. Implement a method to determine the person's age.
+Problem Statement no.1:- Write a program to find the roots of a quadratic equation.
 
-2. Write a Python program to create a class representing a stack data structure.
-Include methods for pushing and popping elements.
+Problem Statement no.2:- Write a program to calculate the power of a number using a loop.
 
-3. Write a Python program to create a class representing a shopping cart. Include
-methods for adding and removing items, and calculating the total price.
+Problem Statement no.3:- Write a program to check if a given string, is a palindrome.
 
-4. Write a Python program to create a class representing a bank. Include methods for
-managing customer accounts and transactions.
+Problem Statement no.4:- Write a program that simulates a simple ATM machine, allowing users to check
+their balance, deposit, or withdraw money using a switch statement.
 
-5. Create a Bus child class that inherits from the Vehicle class. The default fare
-charge of any vehicle is seating capacity * 100. If Vehicle is Bus instance, we
-need to add an extra 10% on full fare as a maintenance charge. So total fare for
-bus instance will become the final amount = total fare + 10% of the total fare.
+Problem Statement no.5:- Write a program that finds the largest among three numbers using nested if-else
+statements
 
-6. Define a class attribute “color” with a default value white. i.e., Every Vehicle
-should be white.
+Problem Statement no.6:- Write a program that determines the grade of a student based on their marks of 5
+subjects using if-else-if ladder.
 
-7. Implement a class inheritance as following:
+Problem Statement no.7:- Write a program to find the sum of digits of a number until it becomes a single-
+digit number.
 
-8. Create a Python class called “Car” with attributes like make, model, and year.
-Then, create an object of the “Car” class and print its details.
+Problem Statement no.8:- Write a program to print a Pascal's triangle using nested loops.
 
-9. Create a base class called “Animal” and two subclasses, “Dog” and “Cat.” Add
-methods and attributes specific to each subclass.
+Problem Statement no.9:- Write a program to calculate the sum of series 1/1! + 2/2! + 3/3! + ... + N/N! using
+nested loops.
 
-10. Create three classes, “Person,” “Employee,” and “Student.” Use multiple
-inheritance to create a class “PersonInfo” that inherits from both “Employee” and
-“Student.” Add attributes and methods specific to each class.
+Problem Statement no.10:- Write a program to create an array of strings and display them in alphabetical
+order.
 
-11. Create a base class called “Vehicle” with a method called “drive.” Implement two
-subclasses, “Car” and “Bicycle,” that inherit from “Vehicle” and override the “drive”
-method with their own implementations.
+Problem Statement no.11:- Write a program that checks if an array is sorted in ascending order.
 
-12. Define a class with a generator which can iterate the numbers, which are divisible
-by 7, between a given range 0 and n.
+Problem Statement no.12:- Write a program to calculate the sum of elements in each row of a matrix.
 
-13. Write a program to compute the frequency of the words from the input. The
-output should output after sorting the key alphanumerically.
+Problem Statement no.13:- Write a program to generate all possible permutations of a string.
 
-14. To find the Euclidean distance between two points in a two dimensional space
-using class and object
+Problem Statement no.14:- Create a C++ program to print the following pattern:
+    *****
+    * *
+    * *
+    * *
+    *****
 
-15. Create a Python program for an online quiz system. Implement classes for
-quizzes, questions, and users. Include methods for taking quizzes, scoring, and
-displaying results.
+Problem Statement no.15:- Write a C++ program to display the following pattern:
+1
+232
+34543
+4567654
+34543
+232
 
-16. Build a hotel reservation system with classes for rooms, guests, and reservations.
-Implement methods for checking room availability, booking rooms, and generating
-invoices.
+Problem Statement no.16:- Write a program to creating an inventory management system for a small store.
+The system should use object-oriented principles in C++. Yourprogram should
+have the following features:
+• Create a Product class that represents a product in the inventory. Each
+Product object should have the following attributes:
+• Product ID (an integer)
+• Product Name (a string)
+• Price (a floating-point number)
+• Quantity in stock (an integer)
+• Implement a parameterized constructor for the Product class to
+initialize the attributes when a new product is added to the inventory.
 
-17. Develop a time tracking system for employees with classes for employees,
-projects, and time entries. Implement methods for logging hours, generating
-timesheets, and calculating overtime.
+Problem Statement no.17:- Write a program to manage student records. Create a class Student with
+attributes such as name, roll number, and marks. Implement methods for
+displaying student details, adding new students, and calculating the average
+marks of all students in the record system.
 
-18. Create a conference room booking system with classes for rooms, reservations,
-and users. Include methods for checking room availability, booking time slots, and
-sending notifications.
+Problem Statement no.18:- Write a program that implements a basic calculator. Use a class Calculator
+with methods to perform addition, subtraction, multiplication, and division of
+two numbers. The program should allow the user to input two numbers and
+select an operation to perform.
 
-19. Design a recipe management system with classes for recipes, ingredients, and
-users. Implement methods for adding recipes, searching by ingredients
+Problem Statement no.19:- Write a program to simulate a simple online shop. Create a class Product with
+attributes like name, price, and quantity in stock. Implement methods for
+adding products to the shopping cart, calculating the total cost, and displaying
+the contents of the cart.
 
-20. Build a simulation of an ATM system with classes for accounts, transactions, and
-users. Implement methods for withdrawing cash, checking balances, and handling
-PIN verification.
+Problem Statement no.20:- Write a program to manage student grades for a classroom. Create a class
+Student with attributes for student name and an array to store grades.
+Implement methods for adding grades, calculating the average grade, and
+displaying the student's name and grades. Use constructors and destructors to
+initialize and release resources.
